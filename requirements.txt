@@ -1,0 +1,23 @@
+# Python dependencies for Graph Database Benchmark
+
+# Neo4j driver (for CognoDB, Neo4j, Memgraph)
+neo4j==5.14.0
+
+# ArangoDB driver
+python-arango==7.8.0
+
+# TigerGraph driver
+pyTigerGraph==1.5.0
+
+# Data processing
+pandas==2.1.3
+numpy==1.26.2
+
+# Progress bars
+tqdm==4.66.1
+
+# Environment variables
+python-dotenv==1.0.0
+
+# HTTP requests (for APIs)
+requests==2.31.0
